@@ -4,8 +4,8 @@
  */
 package com.feign.user_micro.service;
 
-import com.api.open.crud.api.service.IOpenCrudService;
 import com.feign.user_micro.entity.UserEntity;
+import com.api.open.crud.api.service.IOpenCrudService;
 
 /**
  *

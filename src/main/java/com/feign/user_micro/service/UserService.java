@@ -4,8 +4,9 @@
  */
 package com.feign.user_micro.service;
 
-import com.api.open.crud.api.service.OpenCrudService;
 import com.feign.user_micro.entity.UserEntity;
+import com.api.open.crud.api.service.OpenCrudService;
+
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

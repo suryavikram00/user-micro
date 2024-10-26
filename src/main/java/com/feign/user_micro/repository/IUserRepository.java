@@ -4,8 +4,8 @@
  */
 package com.feign.user_micro.repository;
 
-import com.api.open.crud.api.repository.OpenCrudApiRepository;
 import com.feign.user_micro.entity.UserEntity;
+import com.api.open.crud.api.repository.OpenCrudApiRepository;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
