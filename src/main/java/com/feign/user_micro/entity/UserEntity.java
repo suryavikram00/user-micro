@@ -6,10 +6,12 @@ package com.feign.user_micro.entity;
  */
 
 
-import com.api.open.crud.api.entity.user_micro.UserEntityModel;
+
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
+
+import com.open.feign_client.entity.user_micro.UserEntityModel;
 
 /**
  *
