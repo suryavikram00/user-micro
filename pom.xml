@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.feign</groupId>
-	<artifactId>user_micro</artifactId>
+	<artifactId>user-micro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>user_micro</name>
+	<name>user-micro</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
